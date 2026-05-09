@@ -1,7 +1,7 @@
 # WebMon
-Tools python yang berfungsi untuk cek kesehatan Website
+Python tools that function to check website health
 
-## Cara penggunaan Tools
+## How to use tools 
 ```
 git clone https://github.com/YogaRmdn/WebMon.git
 cd CekWaff
